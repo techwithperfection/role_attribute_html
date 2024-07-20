@@ -1,0 +1,57 @@
+/* Reset some default styles */
+body, html {
+    margin: 0;
+    height: 100%;
+}
+
+.center-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Full viewport height */
+    flex-direction: column;
+}
+
+button {
+    font-size: 40px;
+    background-color: blue;
+    color: white;
+    font-weight: bold;
+    padding: 20px;
+}
+
+.div-banner1 {
+    margin: 20px;
+    font-size: 40px;
+    color: white;
+    font-weight: bold;
+    background-color: brown;
+    padding: 20px;
+}
+
+.div-banner2 {
+    margin: 20px;
+    font-size: 40px;
+    color: white;
+    font-weight: bold;
+    background-color: blueviolet;
+    padding: 20px;
+}
+
+.div-banner3 {
+    margin: 20px;
+    font-size: 40px;
+    color: white;
+    font-weight: bold;
+    background-color: chartreuse;
+    padding: 20px;
+}
+
+.div-banner4 {
+    margin: 20px;
+    font-size: 40px;
+    color: white;
+    font-weight: bold;
+    background-color: violet;
+    padding: 20px;
+}
